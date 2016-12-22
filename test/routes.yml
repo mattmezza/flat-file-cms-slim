@@ -1,0 +1,3 @@
+routes:
+  - blogroll: '/'
+  - post: '/post/:year/:month/:day/:name'

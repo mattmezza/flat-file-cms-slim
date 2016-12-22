@@ -1,0 +1,21 @@
+{
+    "name": "mattmezza/flat-file-cms-slim",
+    "description": "A plugin for slim framework and flat-file-cms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matteo Merola",
+            "email": "mattmezza@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+      "phpunit/phpunit": "5.5.*"
+    },
+    "require": {
+        "mattmezza/flat-file-cms": "dev-master",
+        "slim/slim": "^3.0",
+        "symfony/yaml": "^3.1"
+    }
+}
